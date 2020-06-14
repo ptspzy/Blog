@@ -1,3 +1,12 @@
+
+## V2ray
+
+[https://github.com/233boy/v2ray/wiki](https://github.com/233boy/v2ray/wiki)
+
+### Client
+- mac 客户端https://github.com/yanue/V2rayU
+- ios shadowrocket
+
 ## Trojan
 
 [**trojan**](https://github.com/trojan-gfw/trojan)
@@ -9,7 +18,7 @@
 ### Client
 
 **在用**
-- ios shadoweocket（支持ss,vmess,trojan）
+- ios shadowrocket（支持ss,vmess,trojan）
 - mac [TrojanX](https://github.com/JimLee1996/TrojanX)
 
 **其他**
