@@ -1,0 +1,15 @@
+{
+  "name": "ptspzy-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ptspzy/blog.git",
+  "scripts": {
+    "start": "npm run docs:dev",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}

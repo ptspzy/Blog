@@ -1,0 +1,12 @@
+.vscode
+yarn.lock
+.DS_Store
+node_modules
+
+# file folder
+private
+CODES
+DEMOS
+docs
+work
+
